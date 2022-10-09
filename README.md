@@ -81,3 +81,4 @@ float comput_total_weight(int n, Camel c[n], float truck_weight);
 void ouput(float total_truck_weight);
 and 
 int main()
+nothing readme
